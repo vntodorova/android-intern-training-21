@@ -12,6 +12,8 @@ We will need a third activity, which will be for viewing the existing notes. It 
 
 I want you to save the notes physically in your [app specific external storage](https://developer.android.com/training/data-storage/app-specific) for now.
 
+Make sure that the app looks good on phones and tablets!
+
 ## What to use
 
 * For the list with notes go for [Recycler View](https://developer.android.com/guide/topics/ui/layout/recyclerview). It is easy to implement, just follow the tutorial, but also try to understand what you are doing.

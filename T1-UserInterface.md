@@ -1,7 +1,8 @@
 # User Interface
 
 When developing Android applications, the user interface is very important to the customer, because it can vary from extremely ugly to winning Play Store's design awards.
-Android provides a variety of pre-built UI components such as structured layout objects and UI controls that allow you to build the graphical user interface for your app. You can also create your own (and you will, at some point).
+Android provides a variety of pre-built UI components such as structured layout objects and UI controls that allow you to build the graphical user interface for your app. You can also create your own (and you will, at some point). 
+Also keep in mind, that although you can customize your Android UI as much as you like, there is a design system, created by Google, that can help you build intuitive and better looking apps. It is called **Material Design** and you can check it out [here](https://material.io/).
 
 # Views
 

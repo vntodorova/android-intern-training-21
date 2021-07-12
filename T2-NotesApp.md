@@ -12,8 +12,6 @@ We will need a third activity, which will be for viewing the existing notes. It 
 
 I want you to save the notes physically in your [app specific external storage](https://developer.android.com/training/data-storage/app-specific) for now.
 
-Make sure that the app looks good on phones and tablets!
-
 ## What to use
 
 * For the list with notes go for [Recycler View](https://developer.android.com/guide/topics/ui/layout/recyclerview). It is easy to implement, just follow the tutorial, but also try to understand what you are doing.
@@ -29,5 +27,4 @@ When you are finished with the above task, I want you to do the following improv
 
 * Take a look at [this](https://developer.android.com/training/data-storage/room) article about saving data in local database using Room and implement that instead of storing the files physically in the device storage.
 * Add a button somewhere (make it pretty), which will change the view mode of the notes list from *List* to *Grid*.
-* Add [search](https://developer.android.com/guide/topics/search), so that the user finds his notes more quickly.
 * Add delete and edit functionality.

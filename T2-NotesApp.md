@@ -20,11 +20,3 @@ I want you to save the notes physically in your [app specific external storage](
 ## Source control
 
 You might want to create a github repository before you start this and every other project. 
-
-## Future improvements
-
-When you are finished with the above task, I want you to do the following improvements:
-
-* Take a look at [this](https://developer.android.com/training/data-storage/room) article about saving data in local database using Room and implement that instead of storing the files physically in the device storage.
-* Add a button somewhere (make it pretty), which will change the view mode of the notes list from *List* to *Grid*.
-* Add delete and edit functionality.

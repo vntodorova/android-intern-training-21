@@ -19,3 +19,8 @@ Add a button somewhere (make it pretty), which will change the view mode of the 
 ## Some more functionality for the user
 
 Give the users the ability to *delete* and *edit* the notes they already have. You can add that functionality wherever you see fit.
+
+## Add support for dark mode
+
+Maybe you've noticed the files res/values/themes.xml and res/values-night/themes.xml that Android Studio automatically generated for you. These contain mainly colors that your app uses, if you do not override them, which are different depending on whether the user has turned on the 'Dark mode' in the device's settings. Since I like the dark mode, please make it pretty 😍. 
+
